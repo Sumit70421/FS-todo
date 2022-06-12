@@ -1,0 +1,7 @@
+{
+    "signInReq" : "http://localhost:3000/signin",
+    "signUpReq" : "http://localhost:3000/signup",
+    "getTodo" : "http://localhost:3000/todolist",
+    "todoPost" : "http://localhost:3000/todo",
+    "deleteTodos" :  "http://localhost:3000/delete"
+}

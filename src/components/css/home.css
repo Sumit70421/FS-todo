@@ -1,0 +1,33 @@
+.NavBar{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+#button1 {
+    background: #76B3FA;
+    border-radius: 100px;
+    padding: 20px 60px;
+    color: hsl(0, 26%, 16%);
+    text-decoration: none;
+    font-size: 1.45em;
+    margin: 0 15px;
+    cursor: pointer;
+  }
+  
+  /* Hover state animation applied here */
+ #button1:hover { 
+    background-color: #E3F2FD;
+  color: black;
+  font-weight: bolder;
+  }
+  
+  /* Active state animation applied here */
+#button1:active {
+    background-color: #E3F2FD;
+  color: black;
+  font-weight: bolder;
+  }
+  .gray { background: #D2D2D2; }
+  .gray:active { background: #b9b9b9; }
+  
+  

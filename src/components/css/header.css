@@ -1,0 +1,10 @@
+#head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 99%;
+    border: 3px solid black;
+    height: 40px;
+    font-weight: bold;
+    background-color: aliceblue;
+}
